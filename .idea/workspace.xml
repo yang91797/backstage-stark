@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="966e2792-7256-44fe-8e5b-4252d71141a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="966e2792-7256-44fe-8e5b-4252d71141a2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +65,7 @@
           <entry key="html" value="10" />
           <entry key="js" value="1" />
           <entry key="md" value="3" />
-          <entry key="png" value="3" />
+          <entry key="png" value="4" />
           <entry key="py" value="18" />
           <entry key="svg" value="1" />
         </counts>
@@ -79,7 +75,7 @@
           <entry key="CSS" value="3" />
           <entry key="Database Element" value="7" />
           <entry key="HTML" value="10" />
-          <entry key="Image" value="3" />
+          <entry key="Image" value="4" />
           <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="3" />
           <entry key="Python" value="18" />
@@ -424,10 +420,10 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.19664101" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.19664101" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18585297" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18585297" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -657,9 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stark展示.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app01/stark.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -682,6 +675,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stark展示.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">

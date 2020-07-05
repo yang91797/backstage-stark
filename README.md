@@ -8,6 +8,6 @@
 
 组件源码在stark目录下，且有相关使用文档
 
-![image]()
+![image](https://raw.githubusercontent.com/yang91797/backstage-stark/master/stark%E5%B1%95%E7%A4%BA.png)
 
 
